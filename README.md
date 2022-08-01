@@ -17,7 +17,7 @@ Olá, eu sou Diego Moura
 
 ## Meus contatos
 
-- Linkedin https://www.linkedin.com/in/dimouraaa/
+- Linkedin @dimouraaa/
 - GitHub @dimouraaa
 - Instagram @dimouraaa
 - E-mail diego.moura.gtt@gmail.com
